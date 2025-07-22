@@ -1,7 +1,7 @@
 import os
 import time
 
-## variabel yang digunakan untuk menampung jumlah flag dan urutan flag
+## variabel yang digunakan untuk menampung jumlah flag dan urutan flag.
 containerFlag = []
 flagAmount = ["first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth", "tenth"]
 
